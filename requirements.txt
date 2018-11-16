@@ -1,0 +1,5 @@
+numpy
+pandas
+nptdms
+jupyter
+ipython
